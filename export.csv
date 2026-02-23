@@ -1,0 +1,6 @@
+id,created_at,name,value,metadata
+1,2026-02-23T10:00:00.000Z,name_1,123.4500,"{\"index\":1,\"nested\":{\"flag\":false,\"score\":0.42}}"
+2,2026-02-23T10:00:01.000Z,name_2,987.1200,"{\"index\":2,\"nested\":{\"flag\":true,\"score\":0.88}}"
+3,2026-02-23T10:00:02.000Z,name_3,456.7800,"{\"index\":3,\"nested\":{\"flag\":false,\"score\":0.15}}"
+4,2026-02-23T10:00:03.000Z,name_4,654.3300,"{\"index\":4,\"nested\":{\"flag\":true,\"score\":0.91}}"
+5,2026-02-23T10:00:04.000Z,name_5,321.9900,"{\"index\":5,\"nested\":{\"flag\":false,\"score\":0.63}}"
