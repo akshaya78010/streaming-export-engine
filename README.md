@@ -266,44 +266,9 @@ It mirrors problems solved daily in data platforms, reporting systems, and backe
 ✔ Memory-efficient design
 ✔ Production-ready containerization
 
-📄 License
-
-MIT License
-
-
----
-
-### ✅ What you should do next
-1. Paste this into `README.md`
-2. Commit it:
-```bash
-git add README.md
-git commit -m "Add comprehensive project README"
-
-If you want, next I can:
-
-polish this for resume/interview submission
-
-shorten it for GitHub showcase
-
-add benchmark section
-
-add gzip documentation
-
-Just tell me 👌
-````
-
-
-
-
-
-
-
-
-
-
-
-
+License -
+23A91A05G8
+Majji Sri Laxmi Syamala Akshaya
 
 
 
